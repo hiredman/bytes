@@ -5,6 +5,8 @@ printing and reading of byte arrays as base64 encoded data
 
 ## Usage
 
+    [com.thelastcitadel/bytes "0.1.0"]
+
 ```clojure
 user> (require 'com.thelastcitadel.bytes)
 nil

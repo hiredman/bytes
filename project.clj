@@ -1,4 +1,4 @@
-(defproject com.thelastcitadel/bytes "0.1.0"
+(defproject com.thelastcitadel/bytes "0.2.0-SNAPSHOT"
   :description "data reader for base64 encoded bytes"
   :url "https://github.com/hiredman/bytes"
   :license {:name "Eclipse Public License"
